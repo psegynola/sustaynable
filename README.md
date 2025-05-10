@@ -7,3 +7,5 @@ This is an application for managing employee data
 
 ### To package the application, execute
     npm pack
+
+Application runs on port 3001
