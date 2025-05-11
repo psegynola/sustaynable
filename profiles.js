@@ -1,5 +1,5 @@
 const userProfiles =[]
-const userProfile ={}
+const Profile ={}
 
 const test=""
 
